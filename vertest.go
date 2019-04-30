@@ -3,5 +3,5 @@ package vertest
 import "fmt"
 
 func Println() {
-	fmt.Println("Hello, world")
+	fmt.Println("Hello, World")
 }
