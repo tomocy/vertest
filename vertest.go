@@ -2,6 +2,6 @@ package vertest
 
 import "fmt"
 
-func Println() {
+func Greet() {
 	fmt.Println("Hello, World")
 }
